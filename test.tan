@@ -1,0 +1,4 @@
+let gaming = 20 + 4;
+let lmao = gaming % 3;
+LET = 1;
+print lmao;

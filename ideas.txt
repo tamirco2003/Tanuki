@@ -1,0 +1,7 @@
+scanner struct, "state machine" (state + buffer).
+
+keywords:
+trie
+actual perfect hashing (http://ilan.schnell-web.net/prog/perfect-hash/algo.html)
+fake perfect hashing (minimal(?) hashing function that is different for every keyword and can collide (even often) when inserting other strings.
+                      hash and strcmp on collision, saves comparing with every keyword)
